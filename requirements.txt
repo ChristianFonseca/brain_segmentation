@@ -1,0 +1,9 @@
+numpy
+scipy
+tqdm
+scikit-learn
+opencv-python
+matplotlib
+grad-cam
+segmentation-models-pytorch
+nibabel
