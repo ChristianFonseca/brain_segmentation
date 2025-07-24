@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+*.zip
+
+notebooks-html/
+notebooks-pdf/
 
 data/
 
