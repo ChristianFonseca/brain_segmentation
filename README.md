@@ -44,6 +44,14 @@ Install the other dependencies using:
 pip install -r requirements.txt
 ```
 
+## Data
+
+The project uses the BraTS 2021 Task 1 dataset. You need to download the data from Kaggle:
+
+[BraTS 2021 Task 1 Dataset](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1/)
+
+After downloading, extract the dataset to the `data/` directory in the project root.
+
 ## Project Structure
 
 - `book_v2.ipynb`: Main notebook containing the complete implementation
